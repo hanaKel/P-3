@@ -1,0 +1,245 @@
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Nobel.exe.config
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Nobel.exe
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Nobel.pdb
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\EntityFramework.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Npgsql.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Buffers.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Data.SQLite.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Memory.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Numerics.Vectors.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Text.Encodings.Web.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Text.Json.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Threading.Channels.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Threading.Tasks.Extensions.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.ValueTuple.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\EntityFramework.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\EntityFramework.SqlServer.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\Npgsql.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Buffers.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Data.SQLite.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Memory.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Numerics.Vectors.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Text.Encodings.Web.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Text.Json.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Threading.Channels.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.Threading.Tasks.Extensions.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\bin\Debug\System.ValueTuple.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.csprojAssemblyReference.cache
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.Form1.resources
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.Properties.Resources.resources
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.csproj.GenerateResource.cache
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.csproj.CopyComplete
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.exe
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Nobel\obj\Debug\Nobel.pdb
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Nobel.exe.config
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Nobel.exe
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Nobel.pdb
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\EntityFramework.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Npgsql.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Buffers.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Data.SQLite.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Memory.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Numerics.Vectors.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Text.Encodings.Web.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Text.Json.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Threading.Channels.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.ValueTuple.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\EntityFramework.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\EntityFramework.SqlServer.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\Npgsql.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Buffers.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Data.SQLite.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Memory.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Numerics.Vectors.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Text.Encodings.Web.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Text.Json.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Threading.Channels.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\bin\Debug\System.ValueTuple.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.csproj.AssemblyReference.cache
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.Form1.resources
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.Properties.Resources.resources
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.csproj.GenerateResource.cache
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.csproj.CopyComplete
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.exe
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\GUIBaze2\Baze\Nobel\obj\Debug\Nobel.pdb
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Nobel.exe.config
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Nobel.exe
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Nobel.pdb
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Npgsql.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Buffers.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Memory.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Numerics.Vectors.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Encodings.Web.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Json.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Channels.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Tasks.Extensions.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.ValueTuple.dll
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.SqlServer.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Npgsql.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Buffers.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Memory.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Numerics.Vectors.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Encodings.Web.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Json.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Channels.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Tasks.Extensions.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.ValueTuple.xml
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.AssemblyReference.cache
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.Form1.resources
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.Properties.Resources.resources
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.GenerateResource.cache
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.exe
+\\Spin\BerdnikA16$\_System\Desktop\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.pdb
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Nobel.exe.config
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Nobel.exe
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Nobel.pdb
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Npgsql.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Buffers.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Memory.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Numerics.Vectors.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Encodings.Web.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Json.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Channels.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.ValueTuple.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\Npgsql.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Buffers.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Data.SQLite.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Memory.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Numerics.Vectors.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Encodings.Web.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Text.Json.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Channels.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\bin\Debug\System.ValueTuple.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.AssemblyReference.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.Form1.resources
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.Properties.Resources.resources
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.GenerateResource.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.csproj.CopyComplete
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.exe
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Nobel\obj\Debug\Nobel.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Nobel.exe.config
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Nobel.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Nobel.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\EntityFramework.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Npgsql.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Buffers.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Memory.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Text.Json.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Threading.Channels.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.ValueTuple.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\EntityFramework.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\Npgsql.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Buffers.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Memory.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Text.Json.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Threading.Channels.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\bin\Debug\System.ValueTuple.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.csproj.AssemblyReference.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.Form1.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.Properties.Resources.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.csproj.GenerateResource.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.csproj.CopyComplete
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Nobel\obj\Debug\Nobel.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Nobel.exe.config
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Nobel.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Nobel.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\EntityFramework.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Npgsql.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Buffers.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Memory.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Text.Json.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Threading.Channels.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.ValueTuple.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\EntityFramework.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\Npgsql.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Buffers.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Memory.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Text.Json.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Threading.Channels.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\bin\Debug\System.ValueTuple.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.csproj.AssemblyReference.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.Form1.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.Properties.Resources.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.csproj.GenerateResource.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.csproj.CoreCompileInputs.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.csproj.CopyComplete
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Nobel\obj\Debug\Nobel.pdb
