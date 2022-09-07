@@ -1,0 +1,95 @@
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\Filmi.exe.config
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\Filmi.exe
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\Filmi.pdb
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.csprojAssemblyReference.cache
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.Form1.resources
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.Properties.Resources.resources
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.csproj.GenerateResource.cache
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.csproj.CoreCompileInputs.cache
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.exe
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.pdb
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\EntityFramework.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\EntityFramework.SqlServer.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\System.Data.SQLite.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\System.Data.SQLite.EF6.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\System.Data.SQLite.Linq.dll
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\EntityFramework.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\EntityFramework.SqlServer.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\bin\Debug\System.Data.SQLite.xml
+I:\Faks\Prog3\Poročilo V8\Vaje 8\Baze\Filmi\obj\Debug\Filmi.csproj.CopyComplete
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\Filmi.exe.config
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\Filmi.exe
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\Filmi.pdb
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\EntityFramework.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\System.Data.SQLite.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\EntityFramework.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\bin\Debug\System.Data.SQLite.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.csproj.AssemblyReference.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.Form1.resources
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.Properties.Resources.resources
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.csproj.GenerateResource.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.csproj.CoreCompileInputs.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.csproj.CopyComplete
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.exe
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\GUIBaze2\Baze\Filmi\obj\Debug\Filmi.pdb
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\Filmi.exe.config
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\Filmi.exe
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\Filmi.pdb
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\EntityFramework.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\EntityFramework.SqlServer.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\System.Data.SQLite.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\System.Data.SQLite.EF6.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\System.Data.SQLite.Linq.dll
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\EntityFramework.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\EntityFramework.SqlServer.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\bin\Debug\System.Data.SQLite.xml
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.csproj.AssemblyReference.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.Form1.resources
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.Properties.Resources.resources
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.csproj.GenerateResource.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.csproj.CoreCompileInputs.cache
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.csproj.CopyComplete
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.exe
+D:\PRAKTIČNA MATEMATIKA\Programiranje 3\Vaje9_11_4\Vaje9_11_4\Filmi\obj\Debug\Filmi.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\Filmi.exe.config
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\Filmi.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\Filmi.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\EntityFramework.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\EntityFramework.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.csproj.AssemblyReference.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.Form1.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.Properties.Resources.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.csproj.GenerateResource.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.csproj.CoreCompileInputs.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.csproj.CopyComplete
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\AnaBerdnik-GUIBaze\Filmi\obj\Debug\Filmi.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\Filmi.exe.config
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\Filmi.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\Filmi.pdb
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\EntityFramework.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\System.Data.SQLite.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\EntityFramework.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\bin\Debug\System.Data.SQLite.xml
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.csproj.AssemblyReference.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.Form1.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.Properties.Resources.resources
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.csproj.GenerateResource.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.csproj.CoreCompileInputs.cache
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.csproj.CopyComplete
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.exe
+C:\Users\Ldon Kranjec\Desktop\hana\P3 -C#\AnaBerdnik-GUIBaze\HanaKranjec-GUIBaze - Copy\Filmi\obj\Debug\Filmi.pdb
